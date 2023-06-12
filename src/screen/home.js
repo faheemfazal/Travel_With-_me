@@ -1,9 +1,13 @@
 import React from 'react'
+import Condent from '../component/condent'
+import Header from '../component/header'
 
 function home() {
   return (
     <div>
-      aertyu
+        <Header />
+        <Condent />
+      
     </div>
   )
 }
