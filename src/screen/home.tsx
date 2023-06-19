@@ -2,7 +2,7 @@ import React from 'react'
 import Condent from '../component/condent'
 import Header from '../component/header'
 
-function home() {
+function Home() {
   return (
     <div>
         <Header />
@@ -12,4 +12,4 @@ function home() {
   )
 }
 
-export default home
+export default Home
